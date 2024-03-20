@@ -1,6 +1,6 @@
 function __vite__mapDeps(indexes) {
   if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["assets/Login-gJ4sFRwO.js","assets/Login-Cj8OvhcU.css","assets/Main-DQEVbEfi.js","assets/Main-BUrwPMsM.css","assets/Home-CAscLGOn.js","assets/Home-CXcpOCtY.css","assets/User-BxZ0Wm0n.js","assets/User-qutQbWs-.css"]
+    __vite__mapDeps.viteFileDeps = ["./Login-gJ4sFRwO.js","./Login-Cj8OvhcU.css","./Main-DQEVbEfi.js","./Main-BUrwPMsM.css","./Home-CAscLGOn.js","./Home-CXcpOCtY.css","./User-BxZ0Wm0n.js","./User-qutQbWs-.css"]
   }
   return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
 }
